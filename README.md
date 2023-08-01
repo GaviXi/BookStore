@@ -1,4 +1,4 @@
-# vue-tea
+# BookStore
 
 ## Project setup
 ```
